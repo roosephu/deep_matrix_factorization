@@ -1,0 +1,4 @@
+problem = "ml-100k"
+obs_path = "datasets/ml-100k/ml-100k.pkl"
+n_train_samples = 100_000
+shape = [1682, 943]

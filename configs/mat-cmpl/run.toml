@@ -1,0 +1,3 @@
+problem = "matrix-completion"
+gt_path = "datasets/mat-cmpl/gt.pt"
+shape = [100, 100]

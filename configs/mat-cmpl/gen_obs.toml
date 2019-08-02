@@ -1,0 +1,3 @@
+n = 100
+gt_path = 'datasets/mat-cmpl/gt.pt'
+problem = 'matrix-completion'

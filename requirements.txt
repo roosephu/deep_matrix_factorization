@@ -1,0 +1,17 @@
+torch==1.1.0
+numpy
+ipdb
+gitpython
+cvxpy
+cvxopt
+
+coloredlogs
+toml==0.10.0
+tensorboard==1.14.0
+tensorboardX==1.7
+wrapt
+
+tinydb
+matplotlib
+
+fasteners

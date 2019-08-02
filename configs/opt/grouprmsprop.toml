@@ -1,0 +1,2 @@
+optimizer = "GroupRMSprop"
+lr = 0.001

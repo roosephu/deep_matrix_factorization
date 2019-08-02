@@ -1,0 +1,7 @@
+numpy
+wrapt
+coloredlogs
+toml
+fasteners
+ipdb  # optional
+tensorboardX # optional

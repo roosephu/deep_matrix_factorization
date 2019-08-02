@@ -1,0 +1,3 @@
+problem = "matrix-sensing"
+gt_path = "datasets/mat-sensing/gt.pt"
+shape = [100, 100]

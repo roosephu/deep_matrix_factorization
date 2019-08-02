@@ -1,0 +1,2 @@
+optimizer = "SGD"
+lr = 0.01

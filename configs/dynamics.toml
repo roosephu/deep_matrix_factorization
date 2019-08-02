@@ -1,0 +1,4 @@
+n_iters = 200000
+n_singulars_save = 10
+n_dev_iters = 100
+initialization = "identity"
