@@ -1,5 +1,6 @@
 .idea
 __pycache__
-datasets
 
 .DS_Store
+datasets/*
+!datasets/ml-100k
